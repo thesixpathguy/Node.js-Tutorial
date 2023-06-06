@@ -1,0 +1,5 @@
+20230601	21:43:15	76d34de1-c29a-4bd8-86b5-8ae9d330d661	Error: Not allowed by cors
+20230602	12:30:05	d44cc6d9-9712-4234-9ad5-7ad0307cc04b	SyntaxError: Unexpected token } in JSON at position 46
+20230602	13:06:44	6f3499f3-32af-48f0-a712-4c1f9855abe7	Error: Cannot set headers after they are sent to the client
+20230602	13:07:41	947e35dd-1771-477d-8b47-0472033be03a	Error: Cannot set headers after they are sent to the client
+20230605	19:22:44	b10b44f8-0a29-4173-b50b-cdb3743de9a3	TypeError: Cannot set properties of undefined (setting 'firstname')
